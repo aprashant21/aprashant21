@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Prashant ... 👋
 
-<!--
-**aprashant21/aprashant21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Prashant Adhikari:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Smart Agriculture Android App
+- 🌱 I’m currently learning KMM
+- 👯 I’m looking to collaborate Flutter Project
+- 🤔 I’m looking for help with KMM
+- 💬 Ask me about Android
+- 📫 How to reach me: [Instagram : @pacific_aan]
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love to have coffee and listen music while coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=aprashant21&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprashant21&langs_count=10" />
