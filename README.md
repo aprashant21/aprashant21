@@ -2,9 +2,9 @@
 
 I am Prashant Adhikari:
 
-- 🔭 I’m currently working on Smart Agriculture Android App
+- 🔭 I’m currently working on Real Estate Project
 - 🌱 I’m currently learning KMM
-- 👯 I’m looking to collaborate Flutter Project
+- 👯 I’m looking to collaborate React Project
 - 🤔 I’m looking for help with KMM
 - 💬 Ask me about Android
 - 📫 How to reach me: [Instagram : @pacific_aan](https://www.instagram.com/pacific_aan/)
