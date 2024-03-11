@@ -2,11 +2,11 @@
 
 I am Prashant Adhikari:
 
-- 🔭 I’m currently working on Real Estate Project
-- 🌱 I’m currently learning KMM
+- 🔭 I’m currently working on GME
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate React Project
-- 🤔 I’m looking for help with KMM
-- 💬 Ask me about Android
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about React/Next
 - 📫 How to reach me: [Instagram : @pacific_aan](https://www.instagram.com/pacific_aan/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to have coffee and listen music while coding.
